@@ -1,7 +1,7 @@
 # Random-names-docker
 Exercício para aprendizado de docker-compose
 
-## How to run
+## Como usar
 - clone este repositório
 - configure os arquivos .env segundo seus respectivos .env.example
 - use o comando:
